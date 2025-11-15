@@ -113,9 +113,9 @@ cv2.destroyAllWindows()
 
 ## Output :
 
-<img width="526" height="338" alt="Screenshot 2025-11-15 102058" src="https://github.com/user-attachments/assets/eb69bffb-c357-4460-9a3d-adaccac4f77f" /><br>
-<img width="535" height="330" alt="Screenshot 2025-11-15 102047" src="https://github.com/user-attachments/assets/025d60f2-5fd3-45a6-9ee0-b97939578e9d" /><br>
 <img width="524" height="332" alt="Screenshot 2025-11-15 102035" src="https://github.com/user-attachments/assets/996c347f-d196-46ca-9e5b-ebf8ecd4d063" /><br>
+<img width="535" height="330" alt="Screenshot 2025-11-15 102047" src="https://github.com/user-attachments/assets/025d60f2-5fd3-45a6-9ee0-b97939578e9d" /><br>
+<img width="526" height="338" alt="Screenshot 2025-11-15 102058" src="https://github.com/user-attachments/assets/eb69bffb-c357-4460-9a3d-adaccac4f77f" /><br>
 <img width="640" height="480" alt="Face Detection_screenshot_15 11 2025" src="https://github.com/user-attachments/assets/9f99ac30-9ea8-4af7-a475-c680fb8fd65d" />
 
 ## Result :
